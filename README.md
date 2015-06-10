@@ -1,3 +1,5 @@
+2015.06.19-Installed_Foundation_Via_Github
+
 # [Foundation](http://foundation.zurb.com)
 
 [![Build Status](https://travis-ci.org/zurb/foundation.svg)](https://travis-ci.org/zurb/foundation)
